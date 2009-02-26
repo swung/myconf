@@ -1,4 +1,3 @@
-
 # Check for an interactive session
 [ -z "$PS1" ] && return
 
@@ -24,4 +23,3 @@ function parse_git_branch () {
 
 #PS1='[\u@\h \W]\$ '
 export PS1='\u:\[\033[31;40m\]\W\[\033[0;33m\]$(parse_git_branch)\[\e[0m\]$ '
-#export http_proxy="http://www-proxy.cn.oracle.com:80"
