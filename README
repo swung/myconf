@@ -1,0 +1,10 @@
+My configuration file
+---
+based on http://github.com/jferris/config_files
+
+
+bash:
+bash-support
+
+vim:
+ruby
