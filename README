@@ -1,10 +1,5 @@
 My configuration file
 ---
-based on http://github.com/jferris/config_files
+forked from https://github.com/sontek/dotfiles
 
 
-bash:
-bash-support
-
-vim:
-ruby
